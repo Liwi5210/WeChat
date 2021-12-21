@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Project: EverydayWechat-Github
-Creator: DoubleThunder
-Create time: 2019-07-11 12:55
+Project: Wechat-Github
+Creator: Liwi
+Create time: 2021-12-21 16:42
 Introduction: 群消息处理
 """
 
