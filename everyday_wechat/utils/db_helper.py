@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Project: EverydayWechat-Github
-Creator: DoubleThunder
-Create time: 2019-07-12 18:37
+Project: everydayWechat-Github
+Creator: Liwi
+Create time: 2021-12-21 15:06
 Introduction:
 """
 
