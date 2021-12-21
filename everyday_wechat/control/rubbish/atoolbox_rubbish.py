@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Project: EverydayWechat-Github
+Project: Wechat-Github
 Creator: Liwi
 Create time: 2021-12-21 14:59
 Introduction: http://www.atoolbox.net/Tool.php?Id=804
