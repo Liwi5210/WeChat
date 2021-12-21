@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Project: EverydayWechat-Github
-Creator: DoubleThunder
-Create time: 2019-07-02 01:24
+Project: Wechat-Github
+Creator: Liwi
+Create time: 2021-12-21 16:42
 Introduction: 天行机器人 申请地址( https://www.tianapi.com/apiview/47 )
 """
 import requests
