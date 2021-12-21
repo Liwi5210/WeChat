@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Project: EverydayWechat-Github
-Creator: DoubleThunder
-Create time: 2019-09-30 17:58
+Project: Wechat-Github
+Creator: Liwi
+Create time: 2021-12-21 16:42
 Introduction: 获取空气质量
 官网：http://aqicn.org/here/
 
