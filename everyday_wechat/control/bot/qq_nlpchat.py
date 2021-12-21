@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Project: HelloWorldPython
-Creator: DoubleThunder
-Create time: 2019-07-01 23:49
+Project: Wechat-Github
+Creator: Liwi
+Create time: 2021-12-21 16:42
 Introduction: 智能闲聊（腾讯）
 官网：https://ai.qq.com/product/nlpchat.shtml
 免费试用，得申请 app_id，app_key。
