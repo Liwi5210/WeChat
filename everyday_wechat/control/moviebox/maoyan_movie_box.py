@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Project: EverydayWechat-Github
-Creator: DoubleThunder
-Create time: 2019-08-30 12:22
+Project: Wechat-Github
+Creator: Liwi
+Create time: 2021-12-21 16:42
 Introduction: 猫眼实时票房 地址：https://piaofang.maoyan.com/dashboard
 接口地址：https://piaofang.maoyan.com/second-box?beginDate=20190924
 
