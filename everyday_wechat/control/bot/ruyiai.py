@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Project: HelloWorldPython
-Creator: DoubleThunder
-Create time: 2019-07-02 02:46
+Project: Wechat-Github
+Creator: Liwi
+Create time: 2021-12-21 16:42
 Introduction: 海知智能 <https://ruyi.ai/> 功能很强大，不仅仅用于聊天。需申请 key，免费
 """
 import requests
